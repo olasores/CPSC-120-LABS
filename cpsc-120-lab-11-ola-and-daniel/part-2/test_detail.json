@@ -1,0 +1,78 @@
+{
+  "tests": 7,
+  "failures": 0,
+  "disabled": 0,
+  "errors": 0,
+  "timestamp": "2022-11-20T19:18:08Z",
+  "time": "0s",
+  "name": "AllTests",
+  "testsuites": [
+    {
+      "name": "GameStateTest",
+      "tests": 7,
+      "failures": 0,
+      "disabled": 0,
+      "errors": 0,
+      "timestamp": "2022-11-20T19:18:08Z",
+      "time": "0s",
+      "testsuite": [
+        {
+          "name": "ConstructorAndSecret",
+          "status": "RUN",
+          "result": "COMPLETED",
+          "timestamp": "2022-11-20T19:18:08Z",
+          "time": "0s",
+          "classname": "GameStateTest"
+        },
+        {
+          "name": "GuessesLeft",
+          "status": "RUN",
+          "result": "COMPLETED",
+          "timestamp": "2022-11-20T19:18:08Z",
+          "time": "0s",
+          "classname": "GameStateTest"
+        },
+        {
+          "name": "GuessCorrect",
+          "status": "RUN",
+          "result": "COMPLETED",
+          "timestamp": "2022-11-20T19:18:08Z",
+          "time": "0s",
+          "classname": "GameStateTest"
+        },
+        {
+          "name": "GuessTooBig",
+          "status": "RUN",
+          "result": "COMPLETED",
+          "timestamp": "2022-11-20T19:18:08Z",
+          "time": "0s",
+          "classname": "GameStateTest"
+        },
+        {
+          "name": "GuessTooSmall",
+          "status": "RUN",
+          "result": "COMPLETED",
+          "timestamp": "2022-11-20T19:18:08Z",
+          "time": "0s",
+          "classname": "GameStateTest"
+        },
+        {
+          "name": "CountGuess",
+          "status": "RUN",
+          "result": "COMPLETED",
+          "timestamp": "2022-11-20T19:18:08Z",
+          "time": "0s",
+          "classname": "GameStateTest"
+        },
+        {
+          "name": "GameOver",
+          "status": "RUN",
+          "result": "COMPLETED",
+          "timestamp": "2022-11-20T19:18:08Z",
+          "time": "0s",
+          "classname": "GameStateTest"
+        }
+      ]
+    }
+  ]
+}
